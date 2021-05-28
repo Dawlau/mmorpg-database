@@ -1,0 +1,5 @@
+Name Description Inventory_Id
+'Blacksmith' 'The blacksmith is one of the major NPC''s in the game. It has the possibility to upgrade items and make it a higher (+). Upgradeable items include: weapons, armour, accessories, etc. Each (+) level improves the item''s properties, for example: a armor''s defense would increase. The higher the (+), the better the item is.' 14
+'Captain' 'Quest Starter. Exchanges hairstyles of the old system to new system' 15
+'General Store' 'Here you can buy Red Potion and Blue Potion, and also Leather Shoes, Wooden Bracelet, Wooden Necklace, Wooden Earrings, Bottle Empty Bottle, Bundle, Scroll of Binding, Scroll of Unbinding, Transform Costume, Enchant Costume.' 16
+'Deokbae' 'Sells and improves the pickaxe' 17
